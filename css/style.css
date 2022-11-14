@@ -1,0 +1,71 @@
+body{
+    background-color: #ffebeb;
+}
+
+.body2{
+    background-color: #dc3545;
+}
+
+.wrapper{
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    position: absolute;
+}
+
+h1{
+    color: #9c0000;
+    font-family: candara;
+}
+
+.botao{
+    min-width: 45%;
+}
+
+.container1{
+    background: #ffebeb;
+    max-width: 700px;
+    min-height: 550px;
+    border-radius: 25px;
+}
+
+h2{
+    color: #dc3545;
+    font-family: candara;
+    font-size: 275%;
+}
+
+.texto{
+    color: #dc3545;
+    font-family: candara;
+    font-size: 25px; 
+}
+
+.form{
+    background-color: #ffebeb;
+    border: 1px solid #dc3545;
+}
+
+.input-radio{
+    width: 30px;
+    height: 30px;
+}
+
+.radio-texto{
+    font-size: 30px;
+}
+
+.resultado{
+    font-size: 35px;
+    color: #dc3545;
+    font-family: candara;
+}
+
+.resultado2{
+    font-size: 25px;
+    color: #dc3545;
+    font-family: candara;
+}
+
+

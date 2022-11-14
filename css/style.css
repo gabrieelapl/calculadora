@@ -30,6 +30,13 @@ h1{
     border-radius: 25px;
 }
 
+.container2{
+    background: #ffebeb;
+    max-width: 700px;
+    min-height: 400px;
+    border-radius: 25px;
+}
+
 h2{
     color: #dc3545;
     font-family: candara;
